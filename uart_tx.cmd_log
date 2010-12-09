@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "X:/Desktop/Router/uart_tx.xst" -ofn "X:/Desktop/Router/uart_tx.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Router/uart_tx.xst" -ofn "X:/Desktop/Router/uart_tx.syr" 
